@@ -97,7 +97,7 @@ th {
   font-style: italic;
   position: sticky;
   top: 3rem;
-  z-index: 2;
+  z-index: 3;
   background-color: white;
 }
 .text {
